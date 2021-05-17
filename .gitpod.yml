@@ -1,0 +1,6 @@
+image:
+  file: gitpod/workspace-postgres
+
+tasks:
+  - init: pip3 install -r requirements.txt
+    command: python3 main.py
