@@ -1,5 +1,5 @@
 image:
-  file: gitpod/workspace-postgres
+  file: .gitpod.dockerfile
 
 tasks:
   - init: pip3 install -r requirements.txt
